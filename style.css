@@ -192,12 +192,6 @@ header .search-form label{
     padding: 5rem;
     height: 30rem;
 }
-.home .box-container .box:hover{
-    background: #fff;
-}
-.home .box-container .box:hover >*{
-    color: var(--bg);
-}
 .home .box-container .box h1{
     color: #fff;
     font-weight: bolder;
